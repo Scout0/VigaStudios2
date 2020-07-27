@@ -8,7 +8,7 @@ Steps to install Plugin in project -
 4. Go to Project Settings -> Python -> 
 	a. Enable Develper Mode
 	b. In "Additional Paths", after going inside your project folder, browse to 
-		Plugins -> Viga7Plugin0907 -> Select Folder "StartupScript"
+		Plugins -> Plugin Name -> Select Folder "StartupScript"
    and restart the editor.
 5. In the Content Browser, go to Viga7Plugin0907Content,
    Right click "Viga7EditorUtilityWidget" -> Run Editor Utility Widget
