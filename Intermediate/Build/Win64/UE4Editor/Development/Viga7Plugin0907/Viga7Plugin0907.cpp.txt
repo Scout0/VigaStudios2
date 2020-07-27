@@ -1,0 +1,2 @@
+D:\UE4 Folders\Viga7\Plugins\Viga7Plugin0907\Intermediate\Build\Win64\UE4Editor\Development\Viga7Plugin0907\Definitions.Viga7Plugin0907.h
+D:\UE4 Folders\Viga7\Plugins\Viga7Plugin0907\Source\Viga7Plugin0907\Public\Viga7Plugin0907.h

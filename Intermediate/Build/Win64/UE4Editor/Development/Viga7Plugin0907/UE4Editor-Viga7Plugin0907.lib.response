@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Viga7Plugin0907.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE4 Folders\Viga7\Intermediate\Build\Win64\Viga7Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\UE4 Folders\Viga7\Plugins\Viga7Plugin0907\Intermediate\Build\Win64\UE4Editor\Development\Viga7Plugin0907\Viga7Plugin0907.cpp.obj"
+"D:\UE4 Folders\Viga7\Plugins\Viga7Plugin0907\Intermediate\Build\Win64\UE4Editor\Development\Viga7Plugin0907\Default.rc2.res"
+/OUT:"D:\UE4 Folders\Viga7\Plugins\Viga7Plugin0907\Intermediate\Build\Win64\UE4Editor\Development\Viga7Plugin0907\UE4Editor-Viga7Plugin0907.lib"
+/INCLUDE:IMPLEMENT_MODULE_Viga7Plugin0907
